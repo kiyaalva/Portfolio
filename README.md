@@ -2,7 +2,8 @@ This portfolio is a road map I followed to analyze data across platforms:
 1. Analyzing data and create tables and views for dashboard requirements in Microsoft SQL Server. --> Covid Deaths and Vaccination Dataset 200000 rows Tools Used - SSMS --> SQL
 2. Import those tables onto tableau and build dashboards for data visualization. --> Covid Dataset (same dataset) Tools Used -SSMS, Tableau --> Visualization
 3. Perform Data Cleaning using SQL. --> Nashville Housing Dataset approx 56000 Tools Used - SSMS --> SQL
-4. Python Correlation --> Movies Dataset approx 6000 rows Tools Used - Jupyter Notebook Lang --> Python 
+4. Python Correlation --> Movies Dataset approx 6000 rows Tools Used - Jupyter Notebook Lang --> Python
+5. Implemented an SSIS Data Flow pipeline to load flat file to database --> 6 million rows
 
 https://public.tableau.com/app/profile/kiran.shridhar.alva/viz/CovidDashboard_17158133826040/Dashboard1?publish=yes
 
